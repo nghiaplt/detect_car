@@ -1,0 +1,17 @@
+/home/nghiaplt/Project/darknet/data/car/images/00083.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00145.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00146.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00043.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00032.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00004.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00064.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00153.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00195.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00095.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00196.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00022.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00046.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00105.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00079.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00044.jpg
+/home/nghiaplt/Project/darknet/data/car/images/00090.jpg
